@@ -1,4 +1,4 @@
-가package lotto.domain.enums;
+package lotto.domain.enums;
 
 import java.util.Arrays;
 
